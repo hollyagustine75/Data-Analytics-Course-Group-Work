@@ -4,4 +4,6 @@ Sleep health and lifestyle dataset taken from Kaggle, https://www.kaggle.com/dat
 
 Breast Cancer Wisconsin (Original) from https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original
 
-Online Shoppers Purchasing Intention Dataset Case Study from https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
+Data Analytics case study using Online Shoppers Purchasing Intention Dataset from https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
+
+Libraries used -> pandas, matplotlib, seaborn, numpy, sklearn & ucimlrepo
